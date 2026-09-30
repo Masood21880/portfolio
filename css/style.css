@@ -1,6 +1,5 @@
 /* *Reset */
 
-
 * {
     margin: 0px;
     padding: 0px;
@@ -89,7 +88,15 @@ header {
 .logo {
     color: white;
     font-size: 25px;
-    font-weight: bold;
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+}
+
+.logo span {
+    color: #38bdf8;
+    /* Same light blue color */
 }
 
 /* Navigation Links */

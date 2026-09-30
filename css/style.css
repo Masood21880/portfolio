@@ -1,8 +1,11 @@
 /* *Reset */
+
+
 * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: "Inter", sans-serif;
 }
 
 /* Navbar */
@@ -12,8 +15,9 @@
     align-items: center;
     padding: 20px 50px;
     background-color: #111827;
-   
+
 }
+
 /* Sticky Header */
 header {
     position: sticky;
